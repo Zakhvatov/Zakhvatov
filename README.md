@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-pixel-art5-light.svg" width="100%" alt="Aleksandr Zakhvatov — engineer">
+  <img src="assets/banner-pixel-art5-light.svg?v=2" width="100%" alt="Aleksandr Zakhvatov — engineer">
 </p>
 
 <p align="center">
