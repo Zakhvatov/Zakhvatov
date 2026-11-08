@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="granola-to-obsidian">
+  <defs>
+    <pattern id="td1" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#5B3FE0" opacity="0.14"/>
+      <rect x="4" y="4" width="2" height="2" fill="#5B3FE0" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="360" fill="#EFEADA"/>
+  <rect x="0" y="250" width="600" height="110" fill="url(#td1)"/>
+  
+      <rect x="132" y="78" width="336" height="150" rx="6" fill="#FFFDF6"/>
+      <rect x="132.5" y="78.5" width="335" height="149" rx="6" fill="none" stroke="#CFC6AE"/>
+      <path d="M132 84a6 6 0 0 1 6-6h324a6 6 0 0 1 6 6v16H132z" fill="#DBD3BE" opacity="0.55"/>
+      <rect x="145" y="86" width="6" height="6" rx="1" fill="#A79E8C"/>
+      <rect x="157" y="86" width="6" height="6" rx="1" fill="#A79E8C"/>
+      <rect x="169" y="86" width="6" height="6" rx="1" fill="#5B3FE0"/>
+      <rect x="148" y="116" width="38.5" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="194.5" y="116" width="53.999999999999986" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="315" y="116" width="28" height="4" rx="2" fill="#DBD3BE"/><rect x="148" y="134" width="21" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="177" y="134" width="36" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="252" y="134" width="28" height="4" rx="2" fill="#DBD3BE"/><rect x="148" y="152" width="49" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="205" y="152" width="18.000000000000014" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="306" y="152" width="28" height="4" rx="2" fill="#DBD3BE"/><rect x="148" y="170" width="28" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="184" y="170" width="90" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="324" y="170" width="28" height="4" rx="2" fill="#DBD3BE"/><rect x="148" y="188" width="17.5" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="173.5" y="188" width="36" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="243" y="188" width="28" height="4" rx="2" fill="#DBD3BE"/><rect x="148" y="206" width="42" height="4" rx="2" fill="#5B3FE0" opacity="0.9"/>
+                  <rect x="198" y="206" width="17.999999999999996" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+                  <rect x="288" y="206" width="28" height="4" rx="2" fill="#DBD3BE"/>
+
+  <rect x="2" y="2" width="596" height="356" fill="none" stroke="#CFC6AE"/>
+  <rect x="2" y="2" width="14" height="3" fill="#5B3FE0"/>
+  <rect x="2" y="2" width="3" height="14" fill="#5B3FE0"/>
+  <rect x="584" y="355" width="14" height="3" fill="#5B3FE0"/>
+  <rect x="595" y="344" width="3" height="14" fill="#5B3FE0"/>
+
+  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.4" fill="#A79E8C">01 — PROJECT</text>
+  <rect x="548" y="33" width="8" height="8" fill="#5B3FE0"/>
+
+  <text x="28" y="304" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="700" letter-spacing="1.4" fill="#171320">GRANOLA-TO-OBSIDIAN</text>
+  <text x="28" y="327" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="0.3" fill="#6B6484">Granola note → Obsidian, one share link</text>
+  <text x="28" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#5B3FE0">[ PYTHON ]</text>
+</svg>

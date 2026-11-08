@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="tidy_clone">
+  <defs>
+    <pattern id="td2" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#D6336C" opacity="0.14"/>
+      <rect x="4" y="4" width="2" height="2" fill="#D6336C" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="360" fill="#EFEADA"/>
+  <rect x="0" y="250" width="600" height="110" fill="url(#td2)"/>
+  
+      <rect x="124" y="74" width="352" height="158" rx="8" fill="#FFFDF6"/>
+      <rect x="124.5" y="74.5" width="351" height="157" rx="8" fill="none" stroke="#CFC6AE"/>
+      
+          <rect x="142" y="96" width="96" height="56" rx="5" fill="#DBD3BE" opacity="0.45"/>
+          <rect x="142.5" y="96.5" width="95" height="55" rx="5" fill="none" stroke="#CFC6AE" opacity="1"/>
+          <rect x="156" y="110" width="26" height="28" rx="3" fill="#A79E8C" opacity="0.55"/>
+          <rect x="192" y="114" width="26" height="4" rx="2" fill="#6B6484" opacity="0.7"/>
+          <rect x="192" y="124" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+          <rect x="250" y="96" width="96" height="56" rx="5" fill="#D6336C" opacity="0.12"/>
+          <rect x="250.5" y="96.5" width="95" height="55" rx="5" fill="none" stroke="#D6336C" opacity="0.55"/>
+          <rect x="264" y="110" width="26" height="28" rx="3" fill="#D6336C" opacity="0.9"/>
+          <rect x="300" y="114" width="30" height="4" rx="2" fill="#D6336C" opacity="0.7"/>
+          <rect x="300" y="124" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+          <rect x="358" y="96" width="96" height="56" rx="5" fill="#DBD3BE" opacity="0.45"/>
+          <rect x="358.5" y="96.5" width="95" height="55" rx="5" fill="none" stroke="#CFC6AE" opacity="1"/>
+          <rect x="372" y="110" width="26" height="28" rx="3" fill="#A79E8C" opacity="0.55"/>
+          <rect x="408" y="114" width="26" height="4" rx="2" fill="#6B6484" opacity="0.7"/>
+          <rect x="408" y="124" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+          <rect x="142" y="164" width="96" height="56" rx="5" fill="#DBD3BE" opacity="0.45"/>
+          <rect x="142.5" y="164.5" width="95" height="55" rx="5" fill="none" stroke="#CFC6AE" opacity="1"/>
+          <rect x="156" y="178" width="26" height="28" rx="3" fill="#A79E8C" opacity="0.55"/>
+          <rect x="192" y="182" width="26" height="4" rx="2" fill="#6B6484" opacity="0.7"/>
+          <rect x="192" y="192" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+          <rect x="250" y="164" width="96" height="56" rx="5" fill="#DBD3BE" opacity="0.45"/>
+          <rect x="250.5" y="164.5" width="95" height="55" rx="5" fill="none" stroke="#CFC6AE" opacity="1"/>
+          <rect x="264" y="178" width="26" height="28" rx="3" fill="#A79E8C" opacity="0.55"/>
+          <rect x="300" y="182" width="26" height="4" rx="2" fill="#6B6484" opacity="0.7"/>
+          <rect x="300" y="192" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+          <rect x="358" y="164" width="96" height="56" rx="5" fill="#DBD3BE" opacity="0.45"/>
+          <rect x="358.5" y="164.5" width="95" height="55" rx="5" fill="none" stroke="#CFC6AE" opacity="1"/>
+          <rect x="372" y="178" width="26" height="28" rx="3" fill="#A79E8C" opacity="0.55"/>
+          <rect x="408" y="182" width="26" height="4" rx="2" fill="#6B6484" opacity="0.7"/>
+          <rect x="408" y="192" width="20" height="4" rx="2" fill="#A79E8C" opacity="0.6"/>
+
+  <rect x="2" y="2" width="596" height="356" fill="none" stroke="#CFC6AE"/>
+  <rect x="2" y="2" width="14" height="3" fill="#D6336C"/>
+  <rect x="2" y="2" width="3" height="14" fill="#D6336C"/>
+  <rect x="584" y="355" width="14" height="3" fill="#D6336C"/>
+  <rect x="595" y="344" width="3" height="14" fill="#D6336C"/>
+
+  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.4" fill="#A79E8C">02 — PROJECT</text>
+  <rect x="548" y="33" width="8" height="8" fill="#D6336C"/>
+
+  <text x="28" y="304" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="700" letter-spacing="1.4" fill="#171320">TIDY_CLONE</text>
+  <text x="28" y="327" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="0.3" fill="#6B6484">Personal wardrobe — link in, clean item out</text>
+  <text x="28" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#D6336C">[ TYPESCRIPT ]</text>
+</svg>
