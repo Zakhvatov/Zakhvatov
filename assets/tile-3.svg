@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="fast-jev-compaction">
+  <defs>
+    <pattern id="td3" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#127A6B" opacity="0.14"/>
+      <rect x="4" y="4" width="2" height="2" fill="#127A6B" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="360" fill="#EFEADA"/>
+  <rect x="0" y="250" width="600" height="110" fill="url(#td3)"/>
+
+  <rect x="132" y="78" width="336" height="150" rx="6" fill="#FFFDF6"/>
+  <rect x="132.5" y="78.5" width="335" height="149" rx="6" fill="none" stroke="#CFC6AE"/>
+  <path d="M132 84a6 6 0 0 1 6-6h324a6 6 0 0 1 6 6v16H132z" fill="#DBD3BE" opacity="0.55"/>
+  <rect x="145" y="86" width="6" height="6" rx="1" fill="#A79E8C"/>
+  <rect x="157" y="86" width="6" height="6" rx="1" fill="#A79E8C"/>
+  <rect x="169" y="86" width="6" height="6" rx="1" fill="#127A6B"/>
+
+  <rect x="148" y="116" width="44" height="4" rx="2" fill="#127A6B" opacity="0.9"/>
+  <rect x="200" y="116" width="62" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="412" y="116" width="28" height="4" rx="2" fill="#DBD3BE"/>
+
+  <g opacity="0.5">
+    <rect x="148" y="134" width="26" height="4" rx="2" fill="#A79E8C" opacity="0.9"/>
+    <rect x="182" y="134" width="48" height="4" rx="2" fill="#A79E8C" opacity="0.7"/>
+    <rect x="392" y="134" width="28" height="4" rx="2" fill="#DBD3BE"/>
+    <g transform="translate(432 136) rotate(45)">
+      <rect x="-5" y="-1" width="10" height="2" rx="1" fill="#127A6B"/>
+      <rect x="-5" y="-1" width="10" height="2" rx="1" fill="#127A6B" transform="rotate(90)"/>
+    </g>
+  </g>
+
+  <rect x="148" y="152" width="18" height="4" rx="2" fill="#127A6B" opacity="0.9"/>
+  <rect x="174" y="152" width="74" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="404" y="152" width="28" height="4" rx="2" fill="#DBD3BE"/>
+
+  <rect x="148" y="170" width="54" height="4" rx="2" fill="#127A6B" opacity="0.9"/>
+  <rect x="210" y="170" width="36" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="420" y="170" width="28" height="4" rx="2" fill="#DBD3BE"/>
+
+  <g opacity="0.5">
+    <rect x="148" y="188" width="22" height="4" rx="2" fill="#A79E8C" opacity="0.9"/>
+    <rect x="178" y="188" width="58" height="4" rx="2" fill="#A79E8C" opacity="0.7"/>
+    <rect x="388" y="188" width="28" height="4" rx="2" fill="#DBD3BE"/>
+    <g transform="translate(432 190) rotate(45)">
+      <rect x="-5" y="-1" width="10" height="2" rx="1" fill="#127A6B"/>
+      <rect x="-5" y="-1" width="10" height="2" rx="1" fill="#127A6B" transform="rotate(90)"/>
+    </g>
+  </g>
+
+  <rect x="148" y="206" width="34" height="4" rx="2" fill="#127A6B" opacity="0.9"/>
+  <rect x="190" y="206" width="46" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="408" y="206" width="28" height="4" rx="2" fill="#DBD3BE"/>
+
+  <rect x="2" y="2" width="596" height="356" fill="none" stroke="#CFC6AE"/>
+  <rect x="2" y="2" width="14" height="3" fill="#127A6B"/>
+  <rect x="2" y="2" width="3" height="14" fill="#127A6B"/>
+  <rect x="584" y="355" width="14" height="3" fill="#127A6B"/>
+  <rect x="595" y="344" width="3" height="14" fill="#127A6B"/>
+
+  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.4" fill="#A79E8C">03 — PROJECT</text>
+  <rect x="548" y="33" width="8" height="8" fill="#127A6B"/>
+
+  <text x="28" y="304" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="700" letter-spacing="1.4" fill="#171320">FAST-JEV-COMPACTION</text>
+  <text x="28" y="327" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="0.3" fill="#6B6484">OpenCode compaction — keep the words, drop the rest</text>
+  <text x="28" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#127A6B">[ TYPESCRIPT · PLUGIN ]</text>
+</svg>

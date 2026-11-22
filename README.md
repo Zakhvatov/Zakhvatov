@@ -8,5 +8,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Zakhvatov/fast-jev-compaction"><img src="assets/tile-3.svg" width="49%" alt="fast-jev-compaction — компакция контекста в OpenCode без пересказа"></a>
+</p>
+
+<p align="center">
   <sub><a href="https://github.com/Zakhvatov">github.com/Zakhvatov</a></sub>
 </p>
