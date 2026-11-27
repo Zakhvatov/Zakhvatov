@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="reading_diary">
+  <defs>
+    <pattern id="td5" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#B45309" opacity="0.14"/>
+      <rect x="4" y="4" width="2" height="2" fill="#B45309" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="360" fill="#EFEADA"/>
+  <rect x="0" y="250" width="600" height="110" fill="url(#td5)"/>
+
+  <rect x="140" y="112" width="36" height="92" rx="3" fill="#B45309" opacity="0.85"/>
+  <rect x="148" y="124" width="20" height="4" rx="2" fill="#FFFDF6" opacity="0.85"/>
+  <rect x="148" y="188" width="20" height="3" rx="1" fill="#FFFDF6" opacity="0.45"/>
+
+  <rect x="184" y="100" width="28" height="104" rx="3" fill="#A79E8C" opacity="0.35"/>
+  <rect x="184.5" y="100.5" width="27" height="103" rx="3" fill="none" stroke="#CFC6AE"/>
+  <rect x="192" y="114" width="13" height="4" rx="2" fill="#6B6484" opacity="0.65"/>
+  <rect x="192" y="188" width="13" height="3" rx="1" fill="#A79E8C"/>
+
+  <rect x="220" y="120" width="42" height="84" rx="3" fill="#DBD3BE"/>
+  <rect x="220.5" y="120.5" width="41" height="83" rx="3" fill="none" stroke="#CFC6AE"/>
+  <rect x="230" y="132" width="23" height="4" rx="2" fill="#6B6484" opacity="0.65"/>
+  <rect x="230" y="188" width="23" height="3" rx="1" fill="#A79E8C"/>
+
+  <rect x="270" y="92" width="32" height="112" rx="3" fill="#B45309" opacity="0.45"/>
+  <rect x="279" y="106" width="15" height="4" rx="2" fill="#FFFDF6" opacity="0.75"/>
+  <rect x="279" y="192" width="15" height="3" rx="1" fill="#FFFDF6" opacity="0.4"/>
+
+  <rect x="310" y="108" width="46" height="96" rx="3" fill="#A79E8C" opacity="0.35"/>
+  <rect x="310.5" y="108.5" width="45" height="95" rx="3" fill="none" stroke="#CFC6AE"/>
+  <rect x="320" y="122" width="27" height="4" rx="2" fill="#6B6484" opacity="0.65"/>
+  <rect x="320" y="190" width="27" height="3" rx="1" fill="#A79E8C"/>
+
+  <rect x="364" y="116" width="26" height="88" rx="3" fill="#DBD3BE"/>
+  <rect x="364.5" y="116.5" width="25" height="87" rx="3" fill="none" stroke="#CFC6AE"/>
+  <rect x="372" y="128" width="11" height="4" rx="2" fill="#6B6484" opacity="0.65"/>
+
+  <g transform="rotate(-9 432 204)">
+    <rect x="418" y="98" width="28" height="106" rx="3" fill="#B45309" opacity="0.85"/>
+    <rect x="426" y="112" width="13" height="4" rx="2" fill="#FFFDF6" opacity="0.85"/>
+    <rect x="426" y="190" width="13" height="3" rx="1" fill="#FFFDF6" opacity="0.45"/>
+  </g>
+
+  <rect x="140" y="204" width="318" height="5" rx="2" fill="#B45309" opacity="0.9"/>
+  <rect x="140" y="204" width="318" height="2" rx="1" fill="#FFFDF6" opacity="0.35"/>
+
+  <rect x="140" y="222" width="318" height="6" rx="3" fill="#DBD3BE"/>
+  <rect x="140" y="222" width="216" height="6" rx="3" fill="#B45309" opacity="0.8"/>
+  <rect x="460" y="219" width="14" height="12" fill="#B45309" opacity="0.85"/>
+
+  <rect x="2" y="2" width="596" height="356" fill="none" stroke="#CFC6AE"/>
+  <rect x="2" y="2" width="14" height="3" fill="#B45309"/>
+  <rect x="2" y="2" width="3" height="14" fill="#B45309"/>
+  <rect x="584" y="355" width="14" height="3" fill="#B45309"/>
+  <rect x="595" y="344" width="3" height="14" fill="#B45309"/>
+
+  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.4" fill="#A79E8C">05 — PROJECT</text>
+  <rect x="548" y="33" width="8" height="8" fill="#B45309"/>
+
+  <text x="28" y="304" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="700" letter-spacing="1.4" fill="#171320">READING_DIARY</text>
+  <text x="28" y="327" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="0.3" fill="#6B6484">Shelves, progress and notes in one page</text>
+  <text x="28" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#B45309">[ TYPESCRIPT · PWA ]</text>
+</svg>

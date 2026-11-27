@@ -8,6 +8,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Zakhvatov/opencode-plugin-advisor"><img src="assets/tile-4.svg" width="49%" alt="opencode-plugin-advisor — вторая модель читает каждый шаг сессии OpenCode"></a>
+  <a href="https://github.com/Zakhvatov/reading_diary"><img src="assets/tile-5.svg" width="49%" alt="reading_diary — читательский дневник: полки, прогресс и заметки"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Zakhvatov/fast-jev-compaction"><img src="assets/tile-3.svg" width="49%" alt="fast-jev-compaction — компакция контекста в OpenCode без пересказа"></a>
 </p>
 

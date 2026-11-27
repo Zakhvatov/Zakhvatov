@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="opencode-plugin-advisor">
+  <defs>
+    <pattern id="td4" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#1F4FD8" opacity="0.14"/>
+      <rect x="4" y="4" width="2" height="2" fill="#1F4FD8" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="360" fill="#EFEADA"/>
+  <rect x="0" y="250" width="600" height="110" fill="url(#td4)"/>
+
+  <text x="120" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.8" fill="#A79E8C">PRIMARY</text>
+  <text x="312" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="1.8" fill="#A79E8C">ADVISOR</text>
+
+  <rect x="120" y="92" width="168" height="104" rx="6" fill="#FFFDF6"/>
+  <rect x="120.5" y="92.5" width="167" height="103" rx="6" fill="none" stroke="#CFC6AE"/>
+  <path d="M120 98a6 6 0 0 1 6-6h156a6 6 0 0 1 6 6v14H120z" fill="#DBD3BE" opacity="0.55"/>
+  <rect x="132" y="98" width="5" height="5" rx="1" fill="#A79E8C"/>
+  <rect x="143" y="98" width="5" height="5" rx="1" fill="#A79E8C"/>
+  <rect x="154" y="98" width="5" height="5" rx="1" fill="#1F4FD8"/>
+
+  <rect x="132" y="122" width="38" height="4" rx="2" fill="#1F4FD8" opacity="0.9"/>
+  <rect x="178" y="122" width="52" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="132" y="140" width="22" height="4" rx="2" fill="#A79E8C" opacity="0.75"/>
+  <rect x="162" y="140" width="70" height="4" rx="2" fill="#A79E8C" opacity="0.55"/>
+  <rect x="132" y="158" width="46" height="4" rx="2" fill="#1F4FD8" opacity="0.9"/>
+  <rect x="186" y="158" width="34" height="4" rx="2" fill="#A79E8C" opacity="0.8"/>
+  <rect x="132" y="176" width="30" height="4" rx="2" fill="#A79E8C" opacity="0.75"/>
+  <rect x="170" y="176" width="58" height="4" rx="2" fill="#DBD3BE"/>
+
+  <line x1="292" y1="144" x2="308" y2="144" stroke="#1F4FD8" stroke-width="2"/>
+  <path d="M303 138l6 6-6 6" fill="none" stroke="#1F4FD8" stroke-width="2"/>
+
+  <rect x="312" y="92" width="168" height="104" rx="6" fill="#FFFDF6"/>
+  <rect x="312.5" y="92.5" width="167" height="103" rx="6" fill="none" stroke="#CFC6AE"/>
+
+  <rect x="326" y="106" width="140" height="58" rx="8" fill="#1F4FD8" opacity="0.07"/>
+  <rect x="326.5" y="106.5" width="139" height="57" rx="8" fill="none" stroke="#1F4FD8" opacity="0.45"/>
+  <rect x="340" y="122" width="34" height="4" rx="2" fill="#1F4FD8" opacity="0.9"/>
+  <rect x="340" y="134" width="92" height="4" rx="2" fill="#A79E8C" opacity="0.75"/>
+  <rect x="340" y="146" width="68" height="4" rx="2" fill="#A79E8C" opacity="0.55"/>
+
+  <circle cx="452" cy="176" r="9" fill="#1F4FD8"/>
+  <path d="M448 176l3 3 5-6" fill="none" stroke="#FFFDF6" stroke-width="1.8"/>
+
+  <rect x="2" y="2" width="596" height="356" fill="none" stroke="#CFC6AE"/>
+  <rect x="2" y="2" width="14" height="3" fill="#1F4FD8"/>
+  <rect x="2" y="2" width="3" height="14" fill="#1F4FD8"/>
+  <rect x="584" y="355" width="14" height="3" fill="#1F4FD8"/>
+  <rect x="595" y="344" width="3" height="14" fill="#1F4FD8"/>
+
+  <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2.4" fill="#A79E8C">04 — PROJECT</text>
+  <rect x="548" y="33" width="8" height="8" fill="#1F4FD8"/>
+
+  <text x="28" y="304" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="700" letter-spacing="1.4" fill="#171320">OPENCODE-PLUGIN-ADVISOR</text>
+  <text x="28" y="327" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="0.3" fill="#6B6484">A second model reads every turn</text>
+  <text x="28" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#1F4FD8">[ TYPESCRIPT · PLUGIN ]</text>
+</svg>
